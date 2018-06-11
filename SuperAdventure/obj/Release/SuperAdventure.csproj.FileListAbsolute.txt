@@ -1,0 +1,12 @@
+C:\Users\Miciaha\source\repos\SuperAdventure\SuperAdventure\bin\Release\SuperAdventure.exe.config
+C:\Users\Miciaha\source\repos\SuperAdventure\SuperAdventure\bin\Release\SuperAdventure.exe
+C:\Users\Miciaha\source\repos\SuperAdventure\SuperAdventure\bin\Release\SuperAdventure.pdb
+C:\Users\Miciaha\source\repos\SuperAdventure\SuperAdventure\bin\Release\Engine.dll
+C:\Users\Miciaha\source\repos\SuperAdventure\SuperAdventure\bin\Release\Engine.pdb
+C:\Users\Miciaha\source\repos\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.csprojResolveAssemblyReference.cache
+C:\Users\Miciaha\source\repos\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.Properties.Resources.resources
+C:\Users\Miciaha\source\repos\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.SuperAdventure.resources
+C:\Users\Miciaha\source\repos\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.csproj.GenerateResource.Cache
+C:\Users\Miciaha\source\repos\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Miciaha\source\repos\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.exe
+C:\Users\Miciaha\source\repos\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.pdb
